@@ -1,4 +1,5 @@
 server:
   port: 8080
 
-key1: world-dev
+config:
+  key1: world-dev
