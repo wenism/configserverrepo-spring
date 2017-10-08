@@ -16,3 +16,7 @@ nginx:
     name: develop.com
     
 key1: global-dev
+
+management:
+  security:
+    enabled: false
